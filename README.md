@@ -1,4 +1,4 @@
-# InspernetOfThings
+# Inspernet Of Things
 
 This repository covers all of the Intel Internet of Things material for Insper's Spring 2015 Internet of Things Activity
 
