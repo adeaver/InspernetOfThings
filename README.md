@@ -19,7 +19,7 @@ For the first project, students will be building a "Sentiment Meter." This meter
 * Pattern for Sentiment Analysis
 * Facebook API for content
 
-#### Important Links:
+###### Important Links for Week 1:
 
 * <a href="https://www.python.org/downloads/release/python-2710/">Python 2.7 download</a>
 * <a href="http://www.sublimetext.com/2">Sublime Text 2 download</a>
