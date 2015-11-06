@@ -18,3 +18,12 @@ For the first project, students will be building a "Sentiment Meter." This meter
 
 * Pattern for Sentiment Analysis
 * Facebook API for content
+
+#### Important Links:
+
+* <a href="https://www.python.org/downloads/release/python-2710/">Python 2.7 download</a>
+* <a href="http://www.sublimetext.com/2">Sublime Text 2 download</a>
+* <a href="https://atom.io/">Atom Text Editor</a>
+* <a href="http://www.vim.org/download.php#pc">Vim Text Editor</a>
+* <a href="http://www.clips.ua.ac.be/pages/pattern">Pattern Download</a>
+* <a href="https://github.com/pythonforfacebook/facebook-sdk">Facebook API Download</a>
