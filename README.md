@@ -27,3 +27,5 @@ For the first project, students will be building a "Sentiment Meter." This meter
 * <a href="http://www.vim.org/download.php#pc">Vim Text Editor</a>
 * <a href="http://www.clips.ua.ac.be/pages/pattern">Pattern Download</a>
 * <a href="https://github.com/pythonforfacebook/facebook-sdk">Facebook API Download</a>
+* <a href="https://developers.facebook.com/">Facebook Developer console</a>
+*
