@@ -27,7 +27,8 @@ void loop()
 }
 
 float readSentiment() {
- system("python /media/mmcblk0p1/sentiment.py " + index);
+ String indexStr = String(index); // convert the index integer to a string
+ system("python /media/mmcblk0p1/fb_analyze.py " + indexStr);
  File sentimentText = SD.read("/media/mmcblk0p1/sentiment.txt"); // attempt to open the file
  String sentimentString = "";
  char floatBuffer[32]; // floatBuffer is used for string to float conversion

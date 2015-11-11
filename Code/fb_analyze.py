@@ -13,9 +13,8 @@ while "message" not in post_data[index]:
     index += 1
     index = index % len(post_data)
 
-status = post_data[index % len(post_data)]["message"]
+status = post_data[index]["message"]
 sent = sentiment(status)[0]
-print status
 
 f = open("sentiment.txt", "w")
 f.write(str(sent))
